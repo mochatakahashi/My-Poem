@@ -4,5 +4,6 @@ Purple
 Pink
 Orange
 Blue
+Green
 Red
 And my favorite color is purple.
